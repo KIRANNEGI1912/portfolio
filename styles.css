@@ -216,11 +216,5 @@ nav {
     padding: 1.25rem;
     text-align: center;
     margin: 2rem 0 0;
-    /*position: sticky;*/
   }
   
-  @media screen and (max-width: 720px) {
-    
-    
-  
-  }
